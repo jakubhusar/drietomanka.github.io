@@ -1,5 +1,3 @@
-# drietomanka.github.io
+# Welcome to your Lovable project
 
-
-
-Testujeme
+TODO: Document your project here
